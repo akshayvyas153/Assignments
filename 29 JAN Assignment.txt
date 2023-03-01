@@ -1,0 +1,95 @@
+                              29 JAN ASSIGNMENT
+
+
+Que:-1  Who developed Python Programming Language? 
+Ans:-   Guido van Rossum developed Python Programming Language.
+
+
+Que:-2  Which type of Programming does Python support? 
+Ans:-   Python supports Object-oriented, structured, and functional programming.
+
+
+Que:-3  Is Python case sensitive when dealing with identifiers? 
+Ans:-   Yes, Python is case sensitive when dealing with identifiers.
+
+
+Que:-4  What is the correct extension of the Python file?
+Ans:-   The correct extension of the Python file is '.py'.
+
+
+Que:-5  Is Python code compiled or interpreted?
+Ans:-   Python program is first compiled and then interpreted.The compilation part is done first when we execute our code and this will generate byte code and internally this byte code             gets converted by the python virtual machine(p.v.m) according to the underlying platform(machine+operating system).
+
+
+Que:-6  Name a few blocks of code used to define in Python language.
+Ans:-   if (condition):
+            # Statement 1
+            # Statement 2
+            # Statement 3
+        else:
+            # Statement 4
+            # Statement 5
+            # Statement 6
+You will find that statements 1,2,3 will have the same indentation and therefore is of the same block. And similarly, statements 4,5,6 is of a another block.
+
+
+Que:-7  State a character used to give single-line comments in Python? 
+Ans:-   '#' is the character used to give single-line comments in Python.
+
+
+Que:-8  Mention functions which can help us to find the version of python that we are currently working on?
+Ans:-   The function 'sys.version' can help us to find the version of python that we are currently working on.
+
+
+Que:-9  Python supports the creation of anonymous functions at runtime, using a construct called...
+Ans:-   Python supports the creation of anonymous functions at runtime, using a construct called 'Lambda'.
+
+
+Que:-10 What does pip stand for python?
+Ans:-   PIP stands for “Python Package Index”. It is a repository of software for the Python programming language.
+
+
+Que:-11 Mention a few built-in functions in python?
+Ans:-   name of the built-in function in Python is are below:
+        1. abs()
+        2. all()
+        3. any()
+        4. ascii()
+        5. bin()    etc.
+        
+        
+Que:-12 What is the maximum possible length of an identifier in Python? 
+Ans:-   The maximum possible length of an identifier in Python is 79 character.
+
+
+Que:-13 What are the benefits of using Python? 
+Ans:-   Benefits of using Python are:
+        1. Versatility Every programmer looks forward to using an advanced programming language to reduce the number of tasks involved. 
+        2. Open Source Not every technology is free in the world.
+        3. Vibrant community A vast community of programmers are found using Python for a long time. 
+        4. Work with less code. 
+        5. Easy Integrations. 
+        6. Productivity. 
+        7. Object-Oriented programming. 
+        8. Safety and Security. 
+        9. Easy Syntax.
+       10. High-Level Language and Easy Readability.
+       
+       
+Que:-14 How is memory managed in Python?
+Ans:-   According to the Python memory management documentation, Python has a private heap that stores our program’s objects and data structures.Python memory manager takes care of the bulk of the memory management work and allows us to concentrate on our code.
+
+
+Que:-15 How to install Python on Windows and set path variables?
+Ans:-   Python Install  : " Go to Python.org official web site, click on download Python for Windows(which is suitable for your device),After download is compeleted go to your device where                              Python is download, after that can install your the Python on your device."
+        Set Path Variables : "1. Right click on My Computer and click on properties. 
+                              2. Click on Advanced System settings 
+                              3. Click on Environment Variable tab. 
+                              4. Click on new tab of user variables. 
+                              5. Write path in variable name 
+                              6. Copy the path of Python folder 
+                              7. Paste path of Python in variable value."
+                              
+                              
+Que:-16 Is indentation required in python? 
+Ans:-   Yes, because without proper indenting the Python code, you will end up seeing IndentationError and the code will not get compiled.
